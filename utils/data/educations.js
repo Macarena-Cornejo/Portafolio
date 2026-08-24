@@ -1,20 +1,23 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Full Stack Web Development",
+    duration: "2025-2026",
+    institution: "Henry Bootcamp",
   },
+
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Magíster en Filosofía",
+    duration: "2022-2025",
+    institution: "Pontificia Universidad Católica de Chile",
   },
+
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "Licenciada en Filosofía",
+    duration: "2015-2021",
+    institution: "Pontificia Universidad Católica de Chile",
+  },
+ 
 ]

@@ -108,6 +108,8 @@ export const skillsImage = (skill) => {
       return angular;
     case 'javascript':
       return javascript;
+    case 'node js':
+      return javascript;
     case 'next js':
       return nextJS;
     case 'nuxt js':
